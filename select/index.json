@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "悲しみをやさしさに",
+  "base_artist": "Little By Little",
+  "createdAt": "2026-02-15T12:20:14.837046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "Little by Little",
+      "has_synced": true,
+      "path": "select/01_悲しみをやさしさに_Little_by_Little.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "Little by Little",
+      "has_synced": true,
+      "path": "select/02_悲しみをやさしさに_Little_by_Little.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "多田李衣菜",
+      "has_synced": true,
+      "path": "select/03_悲しみをやさしさに_多田李衣菜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに (第54-77話 OP)",
+      "artist": "Mami",
+      "has_synced": true,
+      "path": "select/04_悲しみをやさしさに_(第54-77話_OP)_Mami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに - Kanashimi wo Yasashisani ni",
+      "artist": "Little By Little",
+      "has_synced": true,
+      "path": "select/05_悲しみをやさしさに_-_Kanashimi_wo_Yasashisani_ni_Little_By_Little.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに - Kanashimi wo Yasashisani ni",
+      "artist": "Little By Little",
+      "has_synced": true,
+      "path": "select/06_悲しみをやさしさに_-_Kanashimi_wo_Yasashisani_ni_Little_By_Little.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "little by little",
+      "has_synced": true,
+      "path": "select/07_悲しみをやさしさに_little_by_little.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "little by little",
+      "has_synced": true,
+      "path": "select/08_悲しみをやさしさに_little_by_little.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに (第54-77話 OP)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/09_悲しみをやさしさに_(第54-77話_OP)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "05.little by little-悲しみをやさしさに",
+      "artist": "little by little",
+      "has_synced": true,
+      "path": "select/10_05.little_by_little-悲しみをやさしさに_little_by_little.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに",
+      "artist": "多田李衣菜(CV.青木瑠璃子)",
+      "has_synced": true,
+      "path": "select/11_悲しみをやさしさに_多田李衣菜(CV.青木瑠璃子).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "悲しみをやさしさに (Paused)",
+      "artist": "Little by Little",
+      "has_synced": true,
+      "path": "select/12_悲しみをやさしさに_(Paused)_Little_by_Little.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "little by little - 悲しみをやさしさに",
+      "artist": "日本ACG",
+      "has_synced": true,
+      "path": "select/13_little_by_little_-_悲しみをやさしさに_日本ACG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しみをやさしさに",
+      "artist": "little by little",
+      "has_synced": false,
+      "path": "select/pl_01_悲しみをやさしさに_little_by_little.txt"
+    }
+  ]
+}
